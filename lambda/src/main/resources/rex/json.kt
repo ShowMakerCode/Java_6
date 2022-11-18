@@ -1,0 +1,4 @@
+package rex
+
+class json {
+}

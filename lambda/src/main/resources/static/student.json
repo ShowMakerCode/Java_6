@@ -1,0 +1,10 @@
+{
+  "name": "Đồng Thái Dương",
+  "gender": true,
+  "marks" : 9.5,
+  "contact": {
+    "email": "duongdtph18761@fpt",
+    "phone" : "052445150215"
+  },
+  "subjects" : ["WEB205","COM108"]
+}
